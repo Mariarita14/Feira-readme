@@ -8,4 +8,4 @@ Temos o objetivo que essse site tenha o alcance grande, para que cada vez mais p
 |----|-------|
 |Maria Rita| [GitHub da Maria Rita](https://pages.github.com/Mariarita14)|
 |Davi|[GitHub do Davi](https://pages.github.com/qrz6969)|
-|Sofia|[GitHub da Sofia](https://pages.github.com/myosotisfiffi|
+|Sofia|[GitHub da Sofia](https://pages.github.com/myosotisfiffi)|
