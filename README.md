@@ -17,5 +17,5 @@ Biologia, Sociologia e técnico
 Esse projeto foi criado pensando em explicar e apresentar mais sobre os animais marinhos, terrestres e aérios que estão em extição. Pois muitas pessoas não estão sientes da quantidade de animais que estão em extinção e quantos já foram extintos, e a quem podem recorrer para conseguir ajudar. Também vamos falar de algumas ONGs quem fazem este trabalho.
 
 ## 📸Fotos e Prints
-![image](https://github.com/user-attachments/assets/d6c51b77-3b76-46dd-a67c-d15c8dd48232)
+<img src=""width="" hight=""
 
