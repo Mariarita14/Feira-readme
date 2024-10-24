@@ -20,5 +20,5 @@ Esse projeto foi criado pensando em explicar e apresentar mais sobre os animais 
 <img src="https://github.com/Mariarita14/Feira-readme/blob/main/WhatsApp%20Image%202024-10-24%20at%2008.12.38.jpeg?raw=true" width="300px" hight="300px">
 <img src="WhatsApp Image 2024-10-24 at 08.12.40 (1).jpeg" width="300px" hight="300px">
 <img src="WhatsApp Image 2024-10-24 at 08.12.40 (2).jpeg" width="300px" higth="300px">
-<img src="" width="300px" hight="300px">
+<img src="WhatsApp Image 2024-10-24 at 08.12.40.jpeg" width="300px" hight="300px">
 
