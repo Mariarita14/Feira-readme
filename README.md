@@ -3,9 +3,18 @@ Neste projeto iremos falar dos animais em extinção na vida marinha, terretre e
 
 Temos o objetivo que essse site tenha o alcance grande, para que cada vez mais peesoas tenham conhecimento do que esta acontecendo com os animais do mundo inteiro 
 
-✨#Integrantes
+## ✨Integrantes
 |Nome|Git Hub|
 |----|-------|
 |Maria Rita| [GitHub da Maria Rita](https://pages.github.com/Mariarita14)|
 |Davi|[GitHub do Davi](https://pages.github.com/qrz6969)|
 |Sofia|[GitHub da Sofia](https://pages.github.com/myosotisfiffi)|
+
+## Área do Projeto
+Biologia, Sociologia e técnico
+
+## Justificativa
+Esse projeto foi criado pensando em explicar e apresentar mais sobre os animais marinhos, terrestres e aérios que estão em extição. Pois muitas pessoas não estão sientes da quantidade de animais que estão em extinção e quantos já foram extintos, e a quem podem recorrer para conseguir ajudar. Também vamos falar de algumas ONGs quem fazem este trabalho.
+
+## 📸Fotos e Prints
+
